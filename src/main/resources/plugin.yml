@@ -1,0 +1,5 @@
+name: BernardTardis
+version: 0.1
+author: João Bernardi — @jaobernardi
+main: space.jaobernardi.tardis.Main
+api-version: 1.18
